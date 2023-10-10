@@ -1,5 +1,5 @@
 #include <iostream>
-#include <vector>
+
 using namespace std;
 
 /* int divider(int number1, int number2)
