@@ -1,20 +1,65 @@
-Lumberjacks:
-Ordered
-Ordered
-Ordered
-Unordered
-Unordered
-Ordered
-Unordered
-Ordered
-Ordered
-Ordered
-Unordered
-Unordered
-Ordered
-Unordered
-Ordered
-Unordered
-Unordered
-Unordered
-Ordered
+Between 922 and 936, 924 has a maximum of 24 divisors.
+Between 772 and 779, 774 has a maximum of 12 divisors.
+Between 406 and 425, 420 has a maximum of 24 divisors.
+Between 214 and 229, 216 has a maximum of 16 divisors.
+Between 114 and 117, 114 has a maximum of 8 divisors.
+Between 210 and 218, 210 has a maximum of 16 divisors.
+Between 501 and 516, 504 has a maximum of 24 divisors.
+Between 416 and 426, 420 has a maximum of 24 divisors.
+Between 588 and 596, 588 has a maximum of 18 divisors.
+Between 272 and 278, 276 has a maximum of 12 divisors.
+Between 936 and 944, 936 has a maximum of 24 divisors.
+Between 309 and 323, 312 has a maximum of 16 divisors.
+Between 914 and 923, 918 has a maximum of 16 divisors.
+Between 816 and 831, 816 has a maximum of 20 divisors.
+Between 255 and 267, 264 has a maximum of 16 divisors.
+Between 395 and 410, 396 has a maximum of 18 divisors.
+Between 39 and 57, 48 has a maximum of 10 divisors.
+Between 195 and 211, 210 has a maximum of 16 divisors.
+Between 830 and 849, 840 has a maximum of 32 divisors.
+Between 224 and 238, 224 has a maximum of 12 divisors.
+Between 743 and 755, 744 has a maximum of 16 divisors.
+Between 523 and 525, 525 has a maximum of 12 divisors.
+Between 701 and 711, 702 has a maximum of 16 divisors.
+Between 645 and 652, 648 has a maximum of 20 divisors.
+Between 119 and 134, 120 has a maximum of 16 divisors.
+Between 667 and 680, 672 has a maximum of 24 divisors.
+Between 704 and 718, 714 has a maximum of 16 divisors.
+Between 120 and 128, 120 has a maximum of 16 divisors.
+Between 116 and 122, 120 has a maximum of 16 divisors.
+Between 184 and 185, 184 has a maximum of 8 divisors.
+Between 399 and 409, 408 has a maximum of 16 divisors.
+Between 249 and 258, 252 has a maximum of 18 divisors.
+Between 801 and 803, 801 has a maximum of 6 divisors.
+Between 938 and 947, 945 has a maximum of 16 divisors.
+Between 202 and 202, 202 has a maximum of 4 divisors.
+Between 924 and 939, 924 has a maximum of 24 divisors.
+Between 594 and 599, 594 has a maximum of 16 divisors.
+Between 890 and 903, 900 has a maximum of 27 divisors.
+Between 736 and 749, 744 has a maximum of 16 divisors.
+Between 933 and 938, 936 has a maximum of 24 divisors.
+Between 802 and 820, 810 has a maximum of 20 divisors.
+Between 259 and 275, 264 has a maximum of 16 divisors.
+Between 573 and 582, 576 has a maximum of 21 divisors.
+Between 178 and 197, 180 has a maximum of 18 divisors.
+Between 17 and 29, 24 has a maximum of 8 divisors.
+Between 761 and 767, 765 has a maximum of 12 divisors.
+Between 995 and 995, 995 has a maximum of 4 divisors.
+Between 908 and 922, 912 has a maximum of 20 divisors.
+Between 803 and 807, 804 has a maximum of 12 divisors.
+Between 424 and 439, 432 has a maximum of 20 divisors.
+Between 6 and 24, 24 has a maximum of 8 divisors.
+Between 3 and 13, 12 has a maximum of 6 divisors.
+Between 145 and 156, 150 has a maximum of 12 divisors.
+Between 596 and 607, 600 has a maximum of 24 divisors.
+Between 778 and 785, 780 has a maximum of 24 divisors.
+Between 438 and 456, 450 has a maximum of 18 divisors.
+Between 127 and 134, 132 has a maximum of 12 divisors.
+Between 787 and 797, 792 has a maximum of 24 divisors.
+Between 130 and 133, 132 has a maximum of 12 divisors.
+Between 91 and 96, 96 has a maximum of 12 divisors.
+Between 677 and 679, 678 has a maximum of 8 divisors.
+Between 264 and 274, 264 has a maximum of 16 divisors.
+Between 564 and 575, 570 has a maximum of 16 divisors.
+Between 818 and 835, 828 has a maximum of 18 divisors.
+Between 8398905 and 8404884, 8402940 has a maximum of 288 divisors.
